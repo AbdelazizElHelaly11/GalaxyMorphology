@@ -13,6 +13,7 @@ This project classifies galaxy images into **Spiral**, **Lenticular**, and **Ell
 ## 🗃️ Dataset
 
 - **Source**: Galaxy morphology dataset (10,000 images)
+- link : https://www.kaggle.com/datasets/jaimetrickz/galaxy-zoo-2-images
 - **Classes**:
   - Spiral
   - Lenticular
